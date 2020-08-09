@@ -1,4 +1,7 @@
 def duplicate_count(text):
+    '''Takes in string of text and returns the count of 
+    duplicate characters in the string.
+    '''
     # empty dictionary
     dict = {}
     # make text lowercase
